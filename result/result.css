@@ -1,0 +1,7 @@
+@import url(../travel/travel.css);
+
+
+
+.correct{
+    background-color: var(--success-color);
+}
