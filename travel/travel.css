@@ -1,0 +1,24 @@
+@import url("../home/home.css");
+
+.title-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+}
+
+
+
+.list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: .7rem;
+    width: 35rem;
+    height: 3rem;
+    background-color: var(--white-color);
+    border-radius: 1rem;
+}   
+    .list:hover{
+        border: 2px solid black;
+    }

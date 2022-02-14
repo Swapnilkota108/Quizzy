@@ -6,7 +6,7 @@
 
 
 *{
-    color: #000;
+    color: rgba(0, 0, 0, 0.918);
 }
 
 
@@ -21,11 +21,13 @@ body,.container, .introduction{
         width: 95%;
         padding: 1rem;
         color: var(--white-color);
-       background-color: #fdc4c880;
+       background-color: #fee1e3;
     }
        .introduction{
-           width: 35rem;
+           width: 28rem;
+           text-align: center;
        }
+       
     .categories{
         width: 100%;
         display: flex;
