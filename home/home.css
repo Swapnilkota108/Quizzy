@@ -6,8 +6,11 @@
 
 
 *{
+
     color: #000;
     list-style: none;
+
+
     text-decoration: none;
 }
 
@@ -21,12 +24,15 @@ body,.container, .introduction{
         height: auto;
         width: 95%;
         padding: 1rem;
-        
-    
+        color: var(--white-color);
+       background-color: #fee1e3;
+
     }
        .introduction{
-           width: 35rem;
+           width: 28rem;
+           text-align: center;
        }
+       
     .categories{
         width: 100%;
         display: flex;
