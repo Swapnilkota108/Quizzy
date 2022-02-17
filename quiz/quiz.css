@@ -1,4 +1,7 @@
 @import url("../home/home.css");
+body{
+    height: auto;
+}
 
 .title-header{
     display: flex;
@@ -18,10 +21,17 @@
     height: 3rem;
     background-color: var(--white-color);
     border-radius: 1rem;
+    box-sizing:border-box;
 }   
     .list:hover{
         border: 2px solid black;
     }
+
+ .btn{
+    background-color: #fee1e3;
+    color: #000;
+    border-radius: 1rem;
+ }   
 
 
 
