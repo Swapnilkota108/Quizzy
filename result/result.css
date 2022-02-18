@@ -6,3 +6,7 @@
 .correct{
     background-color: var(--success-color);
 }
+
+.container{
+    margin: 1rem;
+}

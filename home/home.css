@@ -6,10 +6,13 @@
 
 
 *{
-    color: rgba(0, 0, 0, 0.918);
+
+    color: #000;
+    list-style: none;
+
+
     text-decoration: none;
 }
-
 
 body,.container, .introduction{
     display: flex;
@@ -24,6 +27,7 @@ body,.container, .introduction{
         margin: 1rem;
         color: var(--white-color);
        background-color: #fee1e3;
+
     }
        .introduction{
            width: 28rem;
