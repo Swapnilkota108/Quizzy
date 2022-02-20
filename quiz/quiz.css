@@ -10,6 +10,10 @@ body{
     width: 90%;
 }
 
+.container{
+    margin: 1rem;
+}
+
 
 
 .list{
@@ -34,6 +38,9 @@ body{
  }   
 
 
-
- 
+    .btn{
+        background-color: #fee1e3;
+        color: #000;
+        border-radius: 1rem;
+     }   
   
