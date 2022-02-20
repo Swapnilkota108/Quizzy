@@ -29,5 +29,9 @@
     }
 
 
- 
+    .btn{
+        background-color: #fee1e3;
+        color: #000;
+        border-radius: 1rem;
+     }   
   
