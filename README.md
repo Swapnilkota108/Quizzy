@@ -6,4 +6,4 @@
  <li>a page to display rules.
  <li>a page for quizzes
  <li>a page for results with score and correct answers.
-  
+  ( Click on the Places category to go to the quizz page )
